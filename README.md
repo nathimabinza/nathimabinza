@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nathimabinza.
-- 👀 I’m interested in learning new ways of doing things.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on .NET and Angular Projects.
+- 👀 I develop apps with Angular and .NET Core Web API.
+- 💞️ I work for one of the top 5 RSA Banks.
 - 📫 You can reach me on nathimabinza@live.com
 
 <!---
