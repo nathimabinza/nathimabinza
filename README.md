@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathimabinza.
 - 👀 I develop apps with Angular and .NET Core Web API.
-- 📫 You can reach me on nathimabinza@live.com
+- 📫 You can reach me on mabinza.nathi@gmail.com
 
 <!---
 nathimabinza/nathimabinza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
