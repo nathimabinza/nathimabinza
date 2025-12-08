@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathimabinza.
+- 👋 Hi, I’m @nathimsitho.
 - 👀 I develop apps with Angular and .NET Core Web API.
 - 📫 You can reach me on mabinza.nathi@gmail.com
 
